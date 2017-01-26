@@ -1,0 +1,1 @@
+from .vkfyer import VkFyer

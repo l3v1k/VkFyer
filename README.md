@@ -8,7 +8,7 @@
 3. Задать в приложении ***Redirect URIs***
   * Можно по-моему любую ссылку
 4. Создать файл с credentials от Спотифая
-  * `mv .spotify_app.example .spotify.app`
+  * `mv .spotify_app.example .spotify_app`
   * заменить в файле занчения, главное чтобы  *redirect-uri* полностью (вплоть до слеша на конце) соответствовал
 5. Достать *access_token* от ВК
    * Авторизироваться ВК через прямую авторизацию **https://vk.cc/2kMG8k** (нужно установить параметры *username* и *password*)
